@@ -1,7 +1,5 @@
 ## Quickstart
 
-Clone this repo or [open in Gitpod](https://gitpod.io/#https://github.com/total-typescript/error-messages-tutorial).
-
 ```sh
 # Installs all dependencies
 npm install
@@ -10,16 +8,16 @@ npm install
 npm run exercise
 ```
 
-## How to take the course
+## How to got through the material
 
-You'll notice that the course is split into exercises. Each exercise is split into a `*.problem` and a `*.solution`.
+The curriculum is split into exercises. Each exercise is split into a `*.problem` and a `*.solution`.
 
 To take an exercise:
 
 1. Run `npm run exercise`
 2. Choose which exercise you'd like to run.
 
-This course encourages **active, exploratory learning**. In the video, I'll explain a problem, and **you'll be asked to try to find a solution**. To attempt a solution, you'll need to:
+This course encourages **active, exploratory learning**. To attempt a solution, you'll need to:
 
 1. Check out [TypeScript's docs](https://www.typescriptlang.org/docs/handbook/intro.html).
 1. Try to find something that looks relevant.
@@ -27,7 +25,7 @@ This course encourages **active, exploratory learning**. In the video, I'll expl
 
 You'll know if you've succeeded because the tests will pass.
 
-**If you succeed**, or **if you get stuck**, unpause the video and check out the `*.solution`. You can see if your solution is better or worse than mine!
+**If you succeed**, or **if you get stuck**, check out the `*.solution`. You can see if your solution is better or worse than mine!
 
 ## Reference
 
@@ -35,4 +33,4 @@ You'll know if you've succeeded because the tests will pass.
 
 Alias: `npm run e`
 
-Open a prompt for choosing which exercise you'd like to run.
+Opens a prompt for choosing which exercise you'd like to run.
