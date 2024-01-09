@@ -1,7 +1,3 @@
-<a href="https://www.totaltypescript.com/tutorials/solving-typescript-errors"><img src="https://res.cloudinary.com/total-typescript/image/upload/v1703327101/Solving_TypeScript_Errors_2x_mnqekv.png" alt="Solving TypeScript Errors, free tutorial by Matt Pocock" /></a>
-
-
-
 ## Quickstart
 
 Clone this repo or [open in Gitpod](https://gitpod.io/#https://github.com/total-typescript/error-messages-tutorial).
@@ -32,10 +28,6 @@ This course encourages **active, exploratory learning**. In the video, I'll expl
 You'll know if you've succeeded because the tests will pass.
 
 **If you succeed**, or **if you get stuck**, unpause the video and check out the `*.solution`. You can see if your solution is better or worse than mine!
-
-## Acknowledgements
-
-Say thanks to Matt on [Twitter](https://twitter.com/mattpocockuk) or by joining his [Discord](https://discord.gg/8S5ujhfTB3). Consider signing up to his [Total TypeScript course](https://totaltypescript.com).
 
 ## Reference
 
