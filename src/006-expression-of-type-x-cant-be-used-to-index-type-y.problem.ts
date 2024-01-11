@@ -5,5 +5,7 @@ const productPrices = {
 };
 
 const getPrice = (productName: string) => {
+  // const index = productName as keyof typeof productPrices;
+  // return productPrices[index];
   return productPrices[productName];
 };
